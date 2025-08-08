@@ -1,0 +1,6 @@
+Github:
+   -> GitHub s a online platform, it is used to write the code.
+   -> it is a fundamental and central role in devops as a disturbute version control system its is capable and essential for anabling the collaboration automation and contiuous delievry.
+        Git=version control system.
+   -> it is center role it enabling snd supporting devops pratice
+   -> GitHub is a Online platform to store git projects.
